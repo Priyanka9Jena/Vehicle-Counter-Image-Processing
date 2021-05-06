@@ -75,4 +75,4 @@ We can perform super useful high-value tasks such as surveillance, traffic manag
 <img alt="output"  src="op.png" />
 
 ### Developed by:
-<a href="<a href="https://github.com/Priyanka9Jena">Priyanka Jena</a>
+<a href="https://github.com/Priyanka9Jena">Priyanka Jena</a>
