@@ -1,4 +1,4 @@
-# vehicle-counter-<br>
+# vehicle-counter-Image-Processing<br>
 ## Project Description
 -> vehicle-counter is an image-processing based project made using made using python, OpenCV library.<br>
 -> This project counts vehicle passing through a particular point.
